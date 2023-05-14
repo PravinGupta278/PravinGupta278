@@ -1,3 +1,5 @@
+![logo](https://github.com/PravinGupta278/PravinGupta278/blob/main/GUPTA%20JI%20YT%203.png)
+
 <h1 align="center">Hi 👋, I'm Pravin Gupta</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
 
