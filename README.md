@@ -1,4 +1,4 @@
-![logo](https://github.com/PravinGupta278/PravinGupta278/blob/main/GUPTA%20JI%20YT%203.png)
+![logo](https://github.com/PravinGupta278/PravinGupta278/blob/main/Modern%20Colorful%20Gaming%20YouTube%20Channel%20Art.png)
 
 <h1 align="center">Hi 👋, I'm Pravin Gupta</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
